@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\NAN-O-TRON\AppData\Local\JetBrains\Rider2020.1\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\NAN-O-TRON\AppData\Local\JetBrains\Rider2020.1\resharper-host\Local\Transient\ReSharperHost\v201\SolutionCaches\_Asteroids.-1420221759.00" t="ExcludeRecursive" />
+    <e p="S:\Projects\Kitkin Bros Entertainment\Asteroids" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Lean" t="Include">
+          <e p="Common" t="Include">
+            <e p="Documentation" t="Include">
+              <e p="LeanGuide.cs" t="Include" />
+            </e>
+            <e p="Examples" t="Include">
+              <e p="Fonts" t="Include">
+                <e p="VarelaRound-Regular.txt" t="Include" />
+              </e>
+              <e p="Scripts" t="Include">
+                <e p="LeanDemo.cs" t="Include" />
+                <e p="LeanLinkTo.cs" t="Include" />
+                <e p="LeanUpgradeEventSystem.cs" t="Include" />
+              </e>
+              <e p="Shaders" t="Include">
+                <e p="Alpha.shader" t="Include" />
+                <e p="Object.shader" t="Include" />
+                <e p="Skybox.shader" t="Include" />
+              </e>
+            </e>
+            <e p="Extras" t="Include">
+              <e p="LeanDestroy.cs" t="Include" />
+              <e p="LeanFormatString.cs" t="Include" />
+              <e p="LeanPath.cs" t="Include" />
+              <e p="LeanPlane.cs" t="Include" />
+              <e p="LeanRoll.cs" t="Include" />
+              <e p="LeanSelect.cs" t="Include" />
+              <e p="LeanSelectable.cs" t="Include" />
+              <e p="LeanSelectableBehaviour.cs" t="Include" />
+              <e p="LeanSelectableGraphicColor.cs" t="Include" />
+              <e p="LeanSelectableRendererColor.cs" t="Include" />
+              <e p="LeanSelectableSpriteRendererColor.cs" t="Include" />
+              <e p="LeanSpawn.cs" t="Include" />
+            </e>
+            <e p="LeanCommon.asmdef" t="Include" />
+            <e p="Scripts" t="Include">
+              <e p="LeanEditor.cs" t="Include" />
+              <e p="LeanHelper.cs" t="Include" />
+              <e p="LeanInput.cs" t="Include" />
+              <e p="LeanInspector.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Pool" t="Include">
+            <e p="LeanPool.asmdef" t="Include" />
+            <e p="Scripts" t="Include">
+              <e p="IPoolable.cs" t="Include" />
+              <e p="LeanClassPool.cs" t="Include" />
+              <e p="LeanGameObjectPool.cs" t="Include" />
+              <e p="LeanPool.cs" t="Include" />
+            </e>
+          </e>
+          <e p="READ ME.txt" t="Include" />
+          <e p="Third-Party Notices.txt" t="Include" />
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="AsteroidsSpawner.cs" t="Include" />
+          <e p="FactorySettings.cs" t="Include" />
+          <e p="FireGun.cs" t="Include" />
+          <e p="Gun.cs" t="Include" />
+          <e p="GunPlayerArrowsInput.cs" t="Include" />
+          <e p="GunPlayerWasdInput.cs" t="Include" />
+          <e p="GunSettings.cs" t="Include" />
+          <e p="HitBody.cs" t="Include" />
+          <e p="HitBodySettings.cs" t="Include" />
+          <e p="IGunInput.cs" t="Include" />
+          <e p="IShipInput.cs" t="Include" />
+          <e p="KeyboardInputs.cs" t="Include" />
+          <e p="MovingProjectile.cs" t="Include" />
+          <e p="PrefabFactory.cs" t="Include" />
+          <e p="ProjectileMovement.cs" t="Include" />
+          <e p="ProjectileSettings.cs" t="Include" />
+          <e p="RandomizedProjectileSettings.cs" t="Include" />
+          <e p="Ship.cs" t="Include" />
+          <e p="ShipMovement.cs" t="Include" />
+          <e p="ShipSettings.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Asteroids.sln" t="IncludeFlat" />
+      <e p="LeanCommon.csproj" t="IncludeRecursive" />
+      <e p="LeanPool.csproj" t="IncludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

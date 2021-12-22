@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="68b4bbc7-b061-4e31-8a52-83322a858b31" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AsteroidsSpawner.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/IGunInput.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ShipMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/HitBodySettings.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Ship.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ProjectileSettings.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/IShipInput.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MovingProjectile.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/KeyboardInputs.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PrefabFactory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ShipSettings.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FireGun.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/HitBody.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FactorySettings.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/RandomizedProjectileSettings.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GunSettings.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GunPlayerArrowsInput.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ProjectileMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Gun.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GunPlayerWasdInput.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/SipSettings.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/KeyboardInput.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/KeyboardArrowsInput.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ShipSettings.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/KeyboardInputs.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/IShipInput.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ShipMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BulletHit.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BulletSettings.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BulletMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Bullet.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ProjectileHit.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RandomizedProjectileSettings.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AsteroidFactory.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/IGunInput.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GunPlayerArrowsInput.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FireGun.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GunSettings.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FactorySettings.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ProjectileMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Gun.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AsteroidsSpawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ProjectileSettings.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/HitBodySettings.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Ship.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PrefabFactory.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MovingProjectile.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2262QpmWcAgmWyPxBThS07KaCvt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1108" y="373" key="RiderGenerateDialog" timestamp="1639145407268">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1108" y="373" key="RiderGenerateDialog/0.0.2560.1400/2560.0.1080.1880@0.0.2560.1400" timestamp="1639145407268" />
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1639148417950">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400/2560.0.1080.1880@0.0.2560.1400" timestamp="1639148417950" />
+  </component>
+</project>
