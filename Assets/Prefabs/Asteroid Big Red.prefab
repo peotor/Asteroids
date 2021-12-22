@@ -222,4 +222,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 76cd7bfa4d63494ebf985a7527706f9b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  factorySettings: {fileID: 11400000, guid: cd735ee7eeb4e1c4c9146ba573311d9a, type: 2}
+  prefabCreatorSettings: {fileID: 11400000, guid: cd735ee7eeb4e1c4c9146ba573311d9a, type: 2}

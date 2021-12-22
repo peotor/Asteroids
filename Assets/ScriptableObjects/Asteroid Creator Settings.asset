@@ -10,13 +10,13 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 11bd1ca9a46c44bf803f5e6bf6786076, type: 3}
-  m_Name: Asteroid Factory OnSplit
+  m_Name: Asteroid Creator Settings
   m_EditorClassIdentifier: 
   prefabs:
-  - {fileID: 364632529523382758, guid: 433a5ff96b33fcb4495752d990c03333, type: 3}
-  - {fileID: 3817115274291970358, guid: aea1063820afaa747947e8a0dbc3d1fe, type: 3}
-  - {fileID: 7039896782099749762, guid: 8ee925633f622fb44a3168d4316319b0, type: 3}
+  - {fileID: 5646989835012828135, guid: 16a90530168e347479c7f6c418e8a5f9, type: 3}
+  - {fileID: 7172038869622938384, guid: f142ec088aec17f48865c00cfdb7fdc8, type: 3}
+  - {fileID: 1109964838897486878, guid: d46e8c1fd1355a047a2795dd7f4568ad, type: 3}
   createCount: 2
-  rotationOption: 0
+  rotationOption: 1
   randomizationPositionOffset: 8
-  atOrigin: 1
+  atOrigin: 0

@@ -17,7 +17,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5646989835012828135, guid: 16a90530168e347479c7f6c418e8a5f9, type: 3}
       propertyPath: m_Name
-      value: Asteroid Big Red (1)
+      value: Asteroid Big LightBlue
       objectReference: {fileID: 0}
     - target: {fileID: 5646989835012828139, guid: 16a90530168e347479c7f6c418e8a5f9, type: 3}
       propertyPath: m_RootOrder

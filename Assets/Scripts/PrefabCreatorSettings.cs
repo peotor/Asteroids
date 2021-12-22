@@ -3,7 +3,7 @@
 
 
 [CreateAssetMenu(fileName = "Factory Settings", menuName = "Create new Factory Settings", order = 0)]
-public class FactorySettings : ScriptableObject
+public class PrefabCreatorSettings : ScriptableObject
 {
     [SerializeField] private GameObject[] prefabs;
 

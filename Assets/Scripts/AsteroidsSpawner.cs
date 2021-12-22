@@ -4,7 +4,7 @@ using UnityEngine;
 public class AsteroidsSpawner : MonoBehaviour
 {
 
-    public PrefabFactory factory;
+    public PrefabCreator creator;
 
     private void Start()
     {
@@ -13,6 +13,6 @@ public class AsteroidsSpawner : MonoBehaviour
 
     void SpawnAsteroids()
     {
-        factory.CreateItems();
+        creator.CreateItems();
     }
 }

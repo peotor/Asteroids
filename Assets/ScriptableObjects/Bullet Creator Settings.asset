@@ -10,13 +10,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 11bd1ca9a46c44bf803f5e6bf6786076, type: 3}
-  m_Name: Asteroid Factory
+  m_Name: Bullet Creator Settings
   m_EditorClassIdentifier: 
   prefabs:
-  - {fileID: 5646989835012828135, guid: 16a90530168e347479c7f6c418e8a5f9, type: 3}
-  - {fileID: 7172038869622938384, guid: f142ec088aec17f48865c00cfdb7fdc8, type: 3}
-  - {fileID: 1109964838897486878, guid: d46e8c1fd1355a047a2795dd7f4568ad, type: 3}
-  createCount: 2
-  rotationOption: 1
-  randomizationPositionOffset: 8
-  atOrigin: 0
+  - {fileID: 4648956019776386924, guid: 675f19eb17e0b9948bd32ce5205db97d, type: 3}
+  createCount: 1
+  rotationOption: 2
+  randomizationPositionOffset: 0
+  atOrigin: 1
