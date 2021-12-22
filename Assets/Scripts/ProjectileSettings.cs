@@ -19,7 +19,4 @@ public class ProjectileSettings : ScriptableObject
         get => projectileLifetimeInSeconds;
         private set => projectileLifetimeInSeconds = value;
     }
-
-    
-        
 }

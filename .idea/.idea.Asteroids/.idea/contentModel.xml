@@ -69,13 +69,18 @@
           <e p="GunSettings.cs" t="Include" />
           <e p="HitBody.cs" t="Include" />
           <e p="HitBodySettings.cs" t="Include" />
-          <e p="IGunInput.cs" t="Include" />
-          <e p="IShipInput.cs" t="Include" />
+          <e p="Interfaces" t="Include">
+            <e p="IGunInput.cs" t="Include" />
+            <e p="IProjectileMovement.cs" t="Include" />
+            <e p="IShipInput.cs" t="Include" />
+          </e>
           <e p="KeyboardInputs.cs" t="Include" />
           <e p="MovingProjectile.cs" t="Include" />
-          <e p="PrefabCreator.cs" t="Include" />
-          <e p="PrefabCreatorSettings.cs" t="Include" />
-          <e p="PrefabFactory.cs" t="Include" />
+          <e p="PrefabConrol" t="Include">
+            <e p="PrefabCreator.cs" t="Include" />
+            <e p="PrefabCreatorSettings.cs" t="Include" />
+            <e p="PrefabFactory.cs" t="Include" />
+          </e>
           <e p="ProjectileMovement.cs" t="Include" />
           <e p="ProjectileSettings.cs" t="Include" />
           <e p="RandomizedProjectileSettings.cs" t="Include" />

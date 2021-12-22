@@ -22,9 +22,3 @@ public class ProjectileMovement : IProjectileMovement
         _transformToMove.position += _transformToMove.up * (_constantSpeed * Time.deltaTime);
     }
 }
-
-
-public interface IProjectileMovement
-{
-    public void TickMovement();
-}
